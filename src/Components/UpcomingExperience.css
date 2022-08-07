@@ -1,0 +1,7 @@
+@media screen and (max-width: 579px) {
+    #section3 {display: none;}
+  }
+
+body{
+    background-color: aliceblue;
+}  

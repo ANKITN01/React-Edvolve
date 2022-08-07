@@ -8,7 +8,7 @@ import './HeadNav.css';
 
 export default function HeadNav() {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+    <Navbar collapseOnSelect expand="lg" bg="light" variant="" className='border'>
       <Container>
         <Navbar.Brand href="#home">Edvolve</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />

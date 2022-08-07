@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{backgroundColor:" rgb(222, 224, 226)"}}>
     <HeadNav></HeadNav>
     <Display></Display>
     </div>
