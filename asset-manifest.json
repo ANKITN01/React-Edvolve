@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Edvolve/static/css/main.01a5a9a9.css",
+    "main.js": "/React-Edvolve/static/js/main.bd6210fa.js",
+    "static/js/787.be5dc198.chunk.js": "/React-Edvolve/static/js/787.be5dc198.chunk.js",
+    "index.html": "/React-Edvolve/index.html",
+    "main.01a5a9a9.css.map": "/React-Edvolve/static/css/main.01a5a9a9.css.map",
+    "main.bd6210fa.js.map": "/React-Edvolve/static/js/main.bd6210fa.js.map",
+    "787.be5dc198.chunk.js.map": "/React-Edvolve/static/js/787.be5dc198.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a5a9a9.css",
+    "static/js/main.bd6210fa.js"
+  ]
+}
